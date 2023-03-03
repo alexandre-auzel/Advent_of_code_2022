@@ -35,5 +35,9 @@
   "bugs": {
     "url": "https://github.com/mathieueveillard/js-kata-starter/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme"
+  "homepage": "https://github.com/mathieueveillard/js-kata-starter#readme",
+  "dependencies": {
+    "@types/node": "^18.11.10",
+    "lodash": "^4.17.21"
+  }
 }
